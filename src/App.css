@@ -1,0 +1,12 @@
+.loader {
+  width: 100%;
+  margin-top: 100px;
+  text-align: center;
+  color: #aaa;
+  animation: logo-spin infinite 2s linear;
+}
+
+@keyframes logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
